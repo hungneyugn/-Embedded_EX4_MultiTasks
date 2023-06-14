@@ -1,4 +1,4 @@
-# Embedded_EX4_MultiTasks
+# Embedded_EX3_MultiTasks
 ### OverView
 There are 3 Tasks
 - Task 1: Blink Led 1 delay 200ms
